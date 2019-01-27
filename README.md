@@ -1,16 +1,2 @@
-# survey
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Survey
+We are making an app which will prepare the soft copy of the survey from, instead of regularly used hard copy of the form. It will reduce the paper wastage and help the person who is taking survey to take the data more conveniently  in the form of soft copy. The data will be easily portable and more secure. The data can be analysed according to user's choice.
